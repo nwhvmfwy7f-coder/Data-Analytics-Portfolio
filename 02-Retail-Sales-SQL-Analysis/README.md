@@ -28,7 +28,38 @@ This project uses PostgreSQL to analyze a simulated retail sales database contai
 The project investigates total orders, unique customers, revenue, average order value, product performance, regional sales, monthly trends, and profitability.
 
 ## Key Findings
-To be added after verifying the completed analysis.
 
-## Recommendations
-To be added after reviewing the actual SQL results.
+### 1. Top-Performing Products
+The retail sales analysis identified the following products as the highest revenue generators:
+
+- **Bottle:** $142,464.06
+- **Keyboard:** $134,937.72
+- **Cable Organizer:** $132,467.49
+
+These products were the company's strongest revenue performers in the simulated dataset.
+
+### 2. Customer Purchasing Behavior
+The analysis includes a ranking of the top 10 customers by total spending. This helps identify high-value customers and opportunities to improve customer retention.
+
+### 3. Monthly Revenue Trends
+Monthly revenue was analyzed across 2024 and 2025 to identify sales patterns and the highest-performing month. This analysis can help inform inventory and promotional planning.
+
+## Business Recommendations
+
+**Recommendation 1 — Prioritize High-Revenue Products**
+
+Review inventory availability and customer demand for the highest-revenue products, particularly Bottle, Keyboard, and Cable Organizer, to reduce the risk of stockouts.
+
+**Recommendation 2 — Evaluate Customer Retention Opportunities**
+
+Use the top-customer spending analysis to identify potential loyalty and retention opportunities. Further analysis of purchase frequency and profitability would help determine which customers to prioritize.
+
+**Recommendation 3 — Improve Sales Planning**
+
+Use monthly revenue trends to guide inventory planning and marketing decisions. Investigate the reasons for monthly sales fluctuations before making changes to purchasing or promotional budgets.
+
+## Conclusion
+
+This project demonstrates my ability to use PostgreSQL to analyze retail sales data, connect multiple database tables, calculate business performance metrics, and translate SQL results into business recommendations.
+
+The analysis covers revenue, customer purchasing behavior, monthly sales trends, and product profitability using a simulated retail database.
