@@ -1,0 +1,41 @@
+product_id,product_name,category,price,cost
+1,Wireless Mouse,Electronics,172.98,95.43
+2,Keyboard,Electronics,190.59,119.92
+3,USB-C Hub,Electronics,31.59,22.51
+4,Webcam,Electronics,170.32,111.7
+5,Speaker,Electronics,38.65,21.46
+6,Charger,Electronics,89.13,62.22
+7,Monitor Stand,Electronics,145.92,97.3
+8,Headphones,Electronics,104.23,50.88
+9,Desk Lamp,Home & Office,127.35,55.93
+10,Office Chair,Home & Office,184.15,112.24
+11,Notebook Set,Home & Office,169.68,89.31
+12,Bottle,Home & Office,213.91,147.16
+13,Organizer,Home & Office,173.9,83.19
+14,Blanket,Home & Office,109.08,47.25
+15,Storage Bin,Home & Office,44.09,27.55
+16,Coffee Maker,Home & Office,166.91,118.55
+17,Yoga Mat,Fitness,79.77,42.37
+18,Bands,Fitness,109.67,52.3
+19,Foam Roller,Fitness,39.02,21.96
+20,Kettlebell,Fitness,59.2,36.76
+21,Jump Rope,Fitness,102.93,68.94
+22,Gym Bag,Fitness,157.66,80.99
+23,Fitness Tracker,Fitness,185.11,122.44
+24,Massage Ball,Fitness,92.6,46.9
+25,Lantern,Outdoor,153.96,71.12
+26,Cooler,Outdoor,53.58,22.62
+27,Hiking Backpack,Outdoor,175.68,108.83
+28,Folding Chair,Outdoor,158.67,103.8
+29,Tent,Outdoor,107.45,63.46
+30,Sleeping Bag,Outdoor,41.08,18.67
+31,Picnic Blanket,Outdoor,151.03,84.78
+32,Flashlight,Outdoor,129.57,84.16
+33,Laptop Sleeve,Accessories,144.02,84.41
+34,Phone Case,Accessories,128.32,65.6
+35,Backpack,Accessories,18.41,10.14
+36,Travel Adapter,Accessories,56.63,30.73
+37,Cable Organizer,Accessories,189.51,92.89
+38,Wallet,Accessories,24.13,12.17
+39,Sunglasses,Accessories,73.07,45.2
+40,Umbrella,Accessories,127.86,83.77
