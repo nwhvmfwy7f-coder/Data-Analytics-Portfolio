@@ -58,6 +58,22 @@ Use the top-customer spending analysis to identify potential loyalty and retenti
 
 Use monthly revenue trends to guide inventory planning and marketing decisions. Investigate the reasons for monthly sales fluctuations before making changes to purchasing or promotional budgets.
 
+### Highest-Revenue Month
+
+December 2025 was the highest-performing sales month, generating **$225,606.72 in total revenue**.
+
+This result identifies December 2025 as the strongest sales period in the simulated dataset. Further analysis could determine whether seasonal demand, promotional activity, or other factors contributed to the increase.
+
+### Highest Profit Margin by Category
+
+The **Accessories** category achieved the highest profit margin at **44.22%**, generating **$506,343.90 in revenue** and **$223,913.65 in profit**.
+
+Although Home & Office generated more total revenue and profit, Accessories retained the highest percentage of revenue after product costs.
+
+**Business Recommendation:** Investigate opportunities to expand sales of high-margin accessories while monitoring demand, inventory costs, and profitability. Compare product-level margins before making inventory investment decisions.
+
+**Business Recommendation:** Review inventory planning and promotional strategies for high-demand months. Compare December performance with other months before making decisions about seasonal inventory investments.
+
 ## Conclusion
 
 This project demonstrates my ability to use PostgreSQL to analyze retail sales data, connect multiple database tables, calculate business performance metrics, and translate SQL results into business recommendations.
