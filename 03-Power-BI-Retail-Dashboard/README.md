@@ -43,3 +43,8 @@ The dashboard allows users to explore sales performance across different years, 
 ## Dataset
 
 Simulated retail sales data used for educational and portfolio purposes.
+## Dashboard Preview
+
+[**View Retail Sales Performance Dashboard (PDF)**](retail-sales-dashboard.pdf)
+
+This dashboard analyzes approximately $3.14 million in retail revenue and $1.32 million in product-level profit across 2024–2025. It includes sales trends, product category comparisons, top-performing products, and interactive filters in the original Power BI report.
